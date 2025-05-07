@@ -126,7 +126,7 @@
   "peerDependencies": {
     "antd": "^5",
     "antd-style": "^3",
-    "react": "^18"
+    "react": "^18 || ^19"
   },
   "packageManager": "pnpm@9.8.0",
   "publishConfig": {
