@@ -2,7 +2,7 @@ import { StateCreator } from 'zustand/vanilla';
 
 import { ChatListProps } from '@/ChatList';
 import { MetaData } from '@/ProChat/types/meta';
-import { MarkdownProps } from '@ant-design/pro-editor';
+import { MarkdownProps } from '@bashid/pro-editor';
 import isEqual from 'fast-deep-equal';
 import { merge } from 'lodash-es';
 import { optionalDevtools } from 'zustand-utils';

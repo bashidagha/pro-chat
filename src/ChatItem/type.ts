@@ -4,7 +4,7 @@ import { ActionEvent } from '@/ActionIconGroup';
 import { ActionsProps } from '@/ChatList/ActionsBar';
 import { EditableMessageProps } from '@/EditableMessage';
 import { ChatMessageError, DivProps, MetaData } from '@/types';
-import { MarkdownProps } from '@ant-design/pro-editor';
+import { MarkdownProps } from '@bashid/pro-editor';
 
 export type WithFalse<T> = T | false;
 

@@ -3,7 +3,7 @@ import { useMergedState } from 'rc-util';
 import { CSSProperties, ReactNode, memo } from 'react';
 
 import MessageInput, { type MessageInputProps } from '@/MessageInput';
-import { Markdown, MarkdownProps } from '@ant-design/pro-editor';
+import { Markdown, MarkdownProps } from '@bashid/pro-editor';
 import { Modal, type ModalProps } from 'antd';
 
 export interface MessageModalProps extends Pick<ModalProps, 'open' | 'footer'> {

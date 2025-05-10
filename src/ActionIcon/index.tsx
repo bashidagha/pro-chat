@@ -6,7 +6,7 @@ import Spotlight from '@/components/Spotlight';
 import { DivProps } from '@/types';
 import { type TooltipProps } from 'antd';
 
-import { ActionIcon as ProEditorActionIcon } from '@ant-design/pro-editor';
+import { ActionIcon as ProEditorActionIcon } from '@bashid/pro-editor';
 import { useStyles } from './style';
 
 export type ActionIconSize =

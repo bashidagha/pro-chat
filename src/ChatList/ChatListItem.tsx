@@ -8,7 +8,7 @@ import { LLMRoleType } from '@/types/llm';
 import { ChatMessage, ChatMessageError } from '@/types/message';
 
 import { useRefFunction } from '@/ProChat/hooks/useRefFunction';
-import { MarkdownProps } from '@ant-design/pro-editor';
+import { MarkdownProps } from '@bashid/pro-editor';
 import ActionsBar, { type ActionsBarProps } from './ActionsBar';
 
 export type OnMessageChange = (id: string, content: string) => void;

@@ -6,7 +6,7 @@ import { ChatItemProps } from '@/ChatItem';
 import EditableMessage from '@/EditableMessage';
 import { ConfigProvider } from 'antd';
 
-import { MarkdownProps } from '@ant-design/pro-editor';
+import { MarkdownProps } from '@bashid/pro-editor';
 import { useStyles } from '../style';
 
 export interface MessageContentProps {

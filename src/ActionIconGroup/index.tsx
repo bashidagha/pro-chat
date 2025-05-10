@@ -1,7 +1,7 @@
 import ActionIcon, { ActionIconProps } from '@/ActionIcon';
 import Icon from '@/Icon';
 import Spotlight from '@/components/Spotlight';
-import { ActionGroup as ProEditorActionGroup } from '@ant-design/pro-editor';
+import { ActionGroup as ProEditorActionGroup } from '@bashid/pro-editor';
 
 import { DropdownProps } from 'antd';
 import { type LucideIcon } from 'lucide-react';

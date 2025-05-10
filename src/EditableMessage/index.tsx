@@ -3,7 +3,7 @@ import { CSSProperties, memo } from 'react';
 
 import MessageInput, { type MessageInputProps } from '@/MessageInput';
 import MessageModal, { type MessageModalProps } from '@/MessageModal';
-import { Markdown, MarkdownProps } from '@ant-design/pro-editor';
+import { Markdown, MarkdownProps } from '@bashid/pro-editor';
 
 export interface EditableMessageProps {
   /**
