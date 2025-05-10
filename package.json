@@ -1,6 +1,6 @@
 {
   "name": "@bashid/ant-design-pro-chat",
-  "version": "1.15.5",
+  "version": "1.15.6",
   "description": "a solution for ai chat",
   "keywords": [
     "ai",
@@ -61,8 +61,8 @@
   },
   "dependencies": {
     "@ant-design/icons": "^5.5.1",
-    "@ant-design/pro-editor": "latest",
     "@babel/runtime": "^7.25.7",
+    "@bashid/pro-editor": "latest",
     "@emotion/react": "^11.13.3",
     "@testing-library/jest-dom": "^6.5.0",
     "copy-to-clipboard": "^3.3.3",
